@@ -5,7 +5,6 @@
 	<groupId>org.gitlab</groupId>
 	<artifactId>java-gitlab-api</artifactId>
 	<version>1.1.9-SNAPSHOT</version>
-
 	<name>Gitlab Java API Wrapper</name>
 	<description>A Java wrapper for the Gitlab Git Hosting Server API</description>
 
